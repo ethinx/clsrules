@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,alpinelinux
   - DOMAIN-SUFFIX,k8s.io
+  - DOMAIN-KEYWORD,helm
