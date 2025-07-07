@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-KEYWORD,fastlydns
   - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,fastlydns.net
