@@ -4,3 +4,5 @@ payload:
   - DOMAIN-KEYWORD,helm
   - DOMAIN-SUFFIX,nodesource.com
   - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-KEYWORD,fastlydns
+  - DOMAIN-KEYWORD,docker
