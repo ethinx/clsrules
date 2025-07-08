@@ -8,3 +8,4 @@ payload:
   - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,fastlydns.net
   - DOMAIN-SUFFIX,opentelemetry.io
+  - DOMAIN-SUFFIX,yarnpkg.com
