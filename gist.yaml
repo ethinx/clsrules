@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,fastlydns.net
   - DOMAIN-SUFFIX,opentelemetry.io
   - DOMAIN-SUFFIX,yarnpkg.com
+  - DOMAIN-SUFFIX,github.com
